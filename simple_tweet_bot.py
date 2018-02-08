@@ -1,10 +1,10 @@
 import tweepy,time,sys
 from tweepy import OAuthHandler
 
-consumer_key = 'SegAXbekM9euiEVdlsQw8ECvF'
-consumer_secret = 'xjyGZoASkYIH4An8Az6I2TT76JfJRNZAaMVkhx1Eco8sHiA1Ft'
-access_token = '961480922641006592-JZSZ0si0JMMobAQxwMpRlcY8lT3pHwh'
-access_secret = 'HODbqAywyoMbsRruOy3AX7ztV0j1HT8WeIKY0bJShI2sC'
+consumer_key = 'INSERT YOUR OWN '
+consumer_secret = 'INSERT YOUR OWN'
+access_token = 'INSERT YOUR OWN'
+access_secret = 'INSERT YOUR OWN'
 
 argfile = str(sys.argv[1])
 
